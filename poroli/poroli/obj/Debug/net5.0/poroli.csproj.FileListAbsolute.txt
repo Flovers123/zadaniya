@@ -1,0 +1,16 @@
+C:\Users\пользователь\source\repos\poroli\poroli\bin\Debug\net5.0\poroli.exe
+C:\Users\пользователь\source\repos\poroli\poroli\bin\Debug\net5.0\poroli.deps.json
+C:\Users\пользователь\source\repos\poroli\poroli\bin\Debug\net5.0\poroli.runtimeconfig.json
+C:\Users\пользователь\source\repos\poroli\poroli\bin\Debug\net5.0\poroli.runtimeconfig.dev.json
+C:\Users\пользователь\source\repos\poroli\poroli\bin\Debug\net5.0\poroli.dll
+C:\Users\пользователь\source\repos\poroli\poroli\bin\Debug\net5.0\ref\poroli.dll
+C:\Users\пользователь\source\repos\poroli\poroli\bin\Debug\net5.0\poroli.pdb
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.AssemblyInfo.cs
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.dll
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\ref\poroli.dll
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.pdb
+C:\Users\пользователь\source\repos\poroli\poroli\obj\Debug\net5.0\poroli.genruntimeconfig.cache
