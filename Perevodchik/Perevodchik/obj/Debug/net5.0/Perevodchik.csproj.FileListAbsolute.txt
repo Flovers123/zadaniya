@@ -1,0 +1,16 @@
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\bin\Debug\net5.0\Perevodchik.exe
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\bin\Debug\net5.0\Perevodchik.deps.json
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\bin\Debug\net5.0\Perevodchik.runtimeconfig.json
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\bin\Debug\net5.0\Perevodchik.runtimeconfig.dev.json
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\bin\Debug\net5.0\Perevodchik.dll
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\bin\Debug\net5.0\ref\Perevodchik.dll
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\bin\Debug\net5.0\Perevodchik.pdb
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.csprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.AssemblyInfoInputs.cache
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.AssemblyInfo.cs
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.dll
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\ref\Perevodchik.dll
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.pdb
+C:\Users\пользователь\source\repos\Perevodchik\Perevodchik\obj\Debug\net5.0\Perevodchik.genruntimeconfig.cache
